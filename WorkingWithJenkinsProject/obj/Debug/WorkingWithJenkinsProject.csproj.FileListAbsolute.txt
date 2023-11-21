@@ -1,0 +1,8 @@
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\bin\Debug\WorkingWithJenkinsProject.exe.config
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\bin\Debug\WorkingWithJenkinsProject.exe
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\bin\Debug\WorkingWithJenkinsProject.pdb
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\obj\Debug\WorkingWithJenkinsProject.csproj.AssemblyReference.cache
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\obj\Debug\WorkingWithJenkinsProject.csproj.SuggestedBindingRedirects.cache
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\obj\Debug\WorkingWithJenkinsProject.csproj.CoreCompileInputs.cache
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\obj\Debug\WorkingWithJenkinsProject.exe
+C:\InvoiceTask\WorkingWithJenkinsProject\WorkingWithJenkinsProject\obj\Debug\WorkingWithJenkinsProject.pdb
