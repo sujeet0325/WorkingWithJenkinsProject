@@ -10,7 +10,7 @@ namespace WorkingWithJenkinsProject
     {
         public void Display()
         {
-            Console.WriteLine("Welcome");
+            Console.WriteLine("Welcome")
         }
         static void Main(string[] args)
         {
